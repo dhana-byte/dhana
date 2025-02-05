@@ -1,1 +1,2 @@
 The research paper explores the use of biochar and membrane technology to enhance microalgae cultivation. It emphasizes more sustainable and eco-friendly methods for producing microalgae, a key resource for biofuels, pharmaceuticals, and other industries.
+The conclusion highlights that combining biochar and membranes can significantly boost microalgae productivity while reducing environmental impact, aligning with the goals of clean energy and sustainable agriculture. 
